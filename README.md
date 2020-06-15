@@ -1,9 +1,10 @@
 # Pilas-de-objetos
-//CLASE ALUMNO
+CLASE ALUMNO
+
 package pila_Alumno;
 
-
 public class alumno {
+
     alumno siguiente;
     private int codigo;
     private String nombre;
